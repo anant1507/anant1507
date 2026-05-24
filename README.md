@@ -5,17 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anant1507" alt="anant1507" /></a> </p>
 
-- 🌱 I’m currently learning **Unreanengine**
+- 🌱 I’m currently learning **Unrealengine**
 
-- 👨‍💻 All of my projects are available at [(Link)]((Link))
 
-- 📝 I regularly write articles on [(link1)]((link1))
 
 - 💬 Ask me about **Flask,React**
 
 - 📫 How to reach me **anantveer157@gmail.com**
 
-- 📄 Know about my experiences [(resume link)]((resume link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
